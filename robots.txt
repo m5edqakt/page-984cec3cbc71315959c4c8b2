@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--mdsscloud-en4qt752a.com/sitemap.xml
